@@ -1,0 +1,8 @@
+[package]
+name = "calculate-psnr"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+vk-video = { path = "../smelter-for-measuring/vk-video" }
+wgpu = "25.0.2"
